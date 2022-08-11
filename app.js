@@ -1,3 +1,5 @@
-const firstName="Harrison"
-let lastName="Fangmeier"
-var age="34"
+const firstName = "Harrison"
+let lastName = "Fangmeier"
+var age = 34
+
+

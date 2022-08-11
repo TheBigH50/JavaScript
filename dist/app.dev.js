@@ -2,4 +2,4 @@
 
 var firstName = "Harrison";
 var lastName = "Fangmeier";
-var age = "34";
+var age = 34;
