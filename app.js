@@ -13,3 +13,5 @@ let author = "Patrick Rothfuss";
 let pageCount = 722;
 let bookmark = 456;
 let hasRead = true;
+
+console.log(stock)
