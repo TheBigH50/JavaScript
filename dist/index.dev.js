@@ -1,3 +1,5 @@
 "use strict";
 
-var name = "Harrison";
+var firstName = "Harrison";
+var lastName = "Fangmeier";
+var age = "34";
